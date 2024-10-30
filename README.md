@@ -67,7 +67,8 @@ Charlie: 2 selections
 ```
 
 Ce résultat montre le temps nécessaire pour chaque essai de Preuve de Travail et un résumé des temps moyens et des metrics de cohérence pour PoW et PoS.
-
+## Conclusion : 
+Il devient claire que le PoS est le meilleur algorithm pour valider une transaction , puisu'il est plus rapide et prend moins de ressource pour s'executé.
 ## Prérequis
 - Python 3.x
 - Bibliothèques : `hashlib`, `time`, `random`
