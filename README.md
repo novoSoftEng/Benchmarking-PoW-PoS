@@ -1,6 +1,4 @@
 # Benchmarking-PoW-PoS
-```markdown
-# Benchmarking des Algorithmes de Preuve de Travail (PoW) et de Preuve d'Enjeu (PoS)
 
 Ce projet effectue un benchmark de deux algorithmes de consensus : **Preuve de Travail (PoW)** et **Preuve d'Enjeu (PoS)**. Il utilise Python pour simuler et analyser les performances de chaque algorithme selon différents critères, tels que le temps nécessaire pour trouver une solution et la cohérence dans la sélection des validateurs/mineurs.
 
